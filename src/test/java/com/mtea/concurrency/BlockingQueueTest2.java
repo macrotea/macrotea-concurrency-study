@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2012 GZ-ISCAS Inc., All Rights Reserved.
  */
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import java.util.Arrays;
 import java.util.List;

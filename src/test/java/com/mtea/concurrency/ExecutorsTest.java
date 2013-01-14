@@ -1,13 +1,15 @@
 /*
  * Copyright (C) 2012 GZ-ISCAS Inc., All Rights Reserved.
  */
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 import org.junit.Test;
+
+import com.mtea.util.ThreadUtil;
 
 /**
  * @author liangqiye@gz.iscas.ac.cn

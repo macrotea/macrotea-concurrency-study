@@ -1,4 +1,4 @@
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import org.junit.Test;
 

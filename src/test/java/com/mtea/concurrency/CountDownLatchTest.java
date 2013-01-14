@@ -1,11 +1,13 @@
 /*
  * Copyright (C) 2012 GZ-ISCAS Inc., All Rights Reserved.
  */
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import java.util.concurrent.CountDownLatch;
 
 import org.junit.Test;
+
+import com.mtea.util.ThreadUtil;
 
 /**
  * @author liangqiye@gz.iscas.ac.cn

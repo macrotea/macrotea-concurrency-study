@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2012 GZ-ISCAS Inc., All Rights Reserved.
  */
-package com.mtea.api;
+package com.mtea.concurrency;
 
 import java.util.concurrent.TimeUnit;
 

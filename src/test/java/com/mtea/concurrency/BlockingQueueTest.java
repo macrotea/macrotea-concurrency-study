@@ -1,4 +1,4 @@
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

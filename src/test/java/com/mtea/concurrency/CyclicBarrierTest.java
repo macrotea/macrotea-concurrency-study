@@ -1,4 +1,4 @@
-package com.mtea.macrotea_concurrency_study;
+package com.mtea.concurrency;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
