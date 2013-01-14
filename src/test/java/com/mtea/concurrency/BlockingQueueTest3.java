@@ -21,8 +21,8 @@ public class BlockingQueueTest3 {
 	// 将指定元素插入此队列中（如果立即可行且不会违反容量限制），成功时返回 true，如果当前没有可用的空间，则抛出
 	// IllegalStateException。
 	
-	//add : 	插入,返回true/false或者抛出异常
-	//offer : 	插入,抛出异常
+	//add : 	插入,返回true,无false,通过抛出异常
+	//offer : 	插入,返回true/false
 	//put : 	插入且等待
 	
 	//take : 	获得队头且等待
